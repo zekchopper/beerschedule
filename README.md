@@ -3,6 +3,7 @@
 Podležno promjenama ovisno o rati ispijanja jer količina boca 
 tj mjesto za njih glavni bottleneck
 ## 21.1.
+* kuhanje belgian
 * kupiti flaše i čepove sakač 120 kom do 28.1.
 * vidjeti kako smrznuti kvasac (glicerin, epruvete)
 ## 28.1.
