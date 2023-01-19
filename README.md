@@ -22,7 +22,7 @@ tj mjesto za njih glavni bottleneck
 * flaširanje nečeg - 40 flaša, osvježi M47 2/2
 ?????????
 
-25.2. - MOMO gotov, 40 flaša
-4.3. - belgian gotov, 40 flaša
-18.3. - cream gotov, 40 flaša
-4.4. - nešto gotovo, 40 flaša
+* 25.2. - MOMO gotov, 40 flaša
+* 4.3. - belgian gotov, 40 flaša
+* 18.3. - cream gotov, 40 flaša
+* 4.4. - nešto gotovo, 40 flaša
