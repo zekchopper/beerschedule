@@ -5,7 +5,7 @@ tj mjesto za njih glavni bottleneck
 ## 21.1.
 * kuhanje belgian
 * kupiti flaše i čepove sakač 120 kom do 28.1.
-~~* vidjeti kako smrznuti kvasac (glicerin, epruvete)~~
+* ~~vidjeti kako smrznuti kvasac (glicerin, epruvete)~~
 ## 28.1.
 * flaširanje momo - 40 flaša
 * skupi kvasac US-05 - 2/2 rok trajanja  25.2 
