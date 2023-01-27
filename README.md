@@ -2,35 +2,35 @@
 # Timeline
 Podležno promjenama ovisno o rati ispijanja jer količina boca 
 tj mjesto za njih glavni bottleneck
-## 21.1.
-* kuhanje belgian
-* kupiti flaše i čepove sakač 120 kom do 28.1.
-* ~~vidjeti kako smrznuti kvasac (glicerin, epruvete)~~
 ## 28.1.
 * flaširanje momo - 40 flaša
 * skupi kvasac US-05 - 2/2 rok trajanja  25.2 
 * 1 slobodni fermentor
+* Kuhanje Kölsch (vienna/herbsbrucker) 10 ili 11 litara - moram vidjet kolko stane u mali fermentor
+** testiranje no-sparge male šarže u aparatu, 1/2 US-05
 ## 4.2. 
 * flaširanje belgian - 40 flaša
-* skupi kvasac M47 belgian abbey - 2/2 M47, rok trajanja 4.3.
-* kuhanje cream sa 1/2 US-05
-* 1 slobodni fermentor
-## 18.2.
-* flaširanje cream - 40 flaša
-* osvježi US-05 na 2/2, rok 18.3.
-* kuhaj još nešto s M47 i 50g spalter select, popiti Amber do 4.3. za 40 flaša
-## 4.3.
-* flaširanje nečeg - 40 flaša, osvježi M47 2/2
-?????????
+* skupi kvasac M47 belgian abbey - 2/2 M47
+* Kuhanje Belgian Dubbel s 1/2 M47
+* 1 Slobodni fermentor
+## 11.2.
+* flaširanje Kőlch - 20 flaša
+* osvježi US-05 na 2/2, rok 11.3.
+* 1 slobodni fermentor, 1 mali
+## 18.2
+* flaširanje Dubbel - 40 flaša
+* osvježi M47 na 2/2, rok 18.3
+* 2 slobodna fermentora
 
 # Recepti
 * Belgian pale ale - https://share.brewfather.app/tGzCHvCP0nXKCK
-* Cream ale - Vienna Hallertauer SMaSH - https://share.brewfather.app/wa12k7fNbNgiZs
 * MoMo SMaSh - https://share.brewfather.app/qqyiOFcjuJFYHB
+* Kölsch - https://share.brewfather.app/uYHxQMZuJii6LA
+* Beglian Dubbel -https://share.brewfather.app/wa12k7fNbNgiZs
 
 
 # Gotove pive
-* 25.2. - MOMO gotov, 40 flaša
-* 4.3. - belgian gotov, 40 flaša
-* 18.3. - cream gotov, 40 flaša
-* 4.4. - nešto gotovo, 40 flaša
+* 18.2. - MOMO gotov, 40/160 flaša
+* 25.2. - belgian gotov, 40/120 flaša
+* 4.3. - Kölsch gotov, 20/100 flaša
+* 11.3. - Dubbel gotovo, 40/60 flaša
