@@ -7,7 +7,7 @@ tj mjesto za njih glavni bottleneck
 * skupi kvasac US-05 - 2/2 rok trajanja  25.2 
 * 1 slobodni fermentor
 * Kuhanje Kölsch (vienna/herbsbrucker) 10 ili 11 litara - moram vidjet kolko stane u mali fermentor
-** testiranje no-sparge male šarže u aparatu, 1/2 US-05
+* * testiranje no-sparge male šarže u aparatu, 1/2 US-05
 ## 4.2. 
 * flaširanje belgian - 40 flaša
 * skupi kvasac M47 belgian abbey - 2/2 M47
